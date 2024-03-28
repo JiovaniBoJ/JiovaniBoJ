@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**JiovaniBoJ/JiovaniBoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am currently working on completing the Cogrammer Software Engineering course.🔭
 
-Here are some ideas to get you started:
+Hi 👋 My name is Jiovani Tomlin
+================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineering Student
+----------------------------
+
+I am an avid learner, with a keen interest in Science and Technology. I study Civil Engineering and I am also doing a course in Software Engineering. I enjoy learning Python and endeavour to learn other languages. I also have an interest in Machine Learning and Artificial Intelligence.
+
+* 🌍  I'm based in United Kingdom
+* ✉️  You can contact me at [jiovanitomlinboj@gmail.com](mailto:jiovanitomlinboj@gmail.com)
+* 🧠  I'm learning Python🐍
+* ⚡  I would like to learn about AI and Machine Learning🖥️
+* 👨🏽‍🔬  I would like to obtain a job as a Software Engineer
+  
